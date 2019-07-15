@@ -10,6 +10,9 @@ import org.springframework.test.context.junit4.SpringRunner;
 public class MortgageAppApplicationTests {
 
 	@Test
+	public void change() {
+		System.out.println("Testing method");
+	}	
 	public void contextLoads() 
 	{
 		System.out.println("Welcome");
