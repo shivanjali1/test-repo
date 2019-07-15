@@ -11,6 +11,7 @@ public class MortgageAppApplicationTests {
 
 	@Test
 	public void change() {
+		System.out.println("Testing method.......hello ...differnce");
 
 		System.out.println("Change method");
 		System.out.println("Testing method.......hello");
@@ -19,6 +20,12 @@ public class MortgageAppApplicationTests {
 	public void contextLoads() 
 	{
 		System.out.println("Welcome");
+		
+		System.out.println("Welcome");
+		System.out.println("Welcome");
+		System.out.println("Welcome");
+		System.out.println("Welcome");
+		System.out.println("Welcome");
 	}
 	
 	@Test
@@ -26,8 +33,4 @@ public class MortgageAppApplicationTests {
 		//hello
 	}
 
-	@Test
-	public void amolMethod() {
-		
-	}
 }
