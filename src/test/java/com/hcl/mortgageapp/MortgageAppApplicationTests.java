@@ -10,6 +10,9 @@ import org.springframework.test.context.junit4.SpringRunner;
 public class MortgageAppApplicationTests {
 
 	@Test
+	public void change() {
+		System.out.println("Testing method.......hello");
+	}	
 	public void contextLoads() 
 	{
 		System.out.println("Welcome");
@@ -17,7 +20,11 @@ public class MortgageAppApplicationTests {
 	
 	@Test
 	public void classTest() {
-		
+		//hello
 	}
 
+	@Test
+	public void amolMethod() {
+		
+	}
 }
