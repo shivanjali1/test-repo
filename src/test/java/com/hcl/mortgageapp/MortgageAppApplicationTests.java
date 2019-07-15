@@ -11,7 +11,10 @@ public class MortgageAppApplicationTests {
 
 	@Test
 	public void change() {
+
 		System.out.println("Change method");
+		System.out.println("Testing method.......hello");
+
 	}	
 	public void contextLoads() 
 	{
@@ -20,7 +23,11 @@ public class MortgageAppApplicationTests {
 	
 	@Test
 	public void classTest() {
-		
+		//hello
 	}
 
+	@Test
+	public void amolMethod() {
+		
+	}
 }
