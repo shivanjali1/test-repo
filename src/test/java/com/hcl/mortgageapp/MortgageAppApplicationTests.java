@@ -12,12 +12,24 @@ public class MortgageAppApplicationTests {
 	//MortgageApp///
 	
 	@Test
-	public void contextLoads() {
+	public void change() {
+
+		System.out.println("Change method");
+		System.out.println("Testing method.......hello");
+
+	}	
+	public void contextLoads() 
+	{
+		System.out.println("Welcome");
 	}
 	
 	@Test
 	public void classTest() {
-		
+		//hello
 	}
 
+	@Test
+	public void amolMethod() {
+		
+	}
 }
