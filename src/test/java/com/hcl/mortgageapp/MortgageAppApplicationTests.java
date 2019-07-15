@@ -14,5 +14,10 @@ public class MortgageAppApplicationTests {
 	{
 		System.out.println("Welcome");
 	}
+	
+	@Test
+	public void classTest() {
+		
+	}
 
 }
