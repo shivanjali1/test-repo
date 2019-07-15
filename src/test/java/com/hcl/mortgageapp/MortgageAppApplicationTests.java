@@ -11,7 +11,7 @@ public class MortgageAppApplicationTests {
 
 	@Test
 	public void change() {
-		System.out.println("Testing method");
+		System.out.println("Change method");
 	}	
 	public void contextLoads() 
 	{
