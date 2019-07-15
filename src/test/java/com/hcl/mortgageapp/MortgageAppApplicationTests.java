@@ -20,7 +20,7 @@ public class MortgageAppApplicationTests {
 	
 	@Test
 	public void classTest() {
-		
+		//hello
 	}
 
 	@Test
