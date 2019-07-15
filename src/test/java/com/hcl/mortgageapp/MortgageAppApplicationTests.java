@@ -12,5 +12,10 @@ public class MortgageAppApplicationTests {
 	@Test
 	public void contextLoads() {
 	}
+	
+	@Test
+	public void classTest() {
+		
+	}
 
 }
