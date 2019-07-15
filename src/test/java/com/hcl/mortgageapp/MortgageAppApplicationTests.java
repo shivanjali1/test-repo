@@ -11,6 +11,7 @@ public class MortgageAppApplicationTests {
 
 	@Test
 	public void contextLoads() {
+		System.out.println("Testing method");
 	}
 
 }
