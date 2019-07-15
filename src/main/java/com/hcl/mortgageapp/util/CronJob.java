@@ -16,7 +16,8 @@ public class CronJob {
 	
 	@Scheduled(fixedRate = 6000)
 	public void displayWelComeMsg() {
-		System.out.println("Welcome .......This is cron job.");
+		System.out.println("Welcome .......This is cron job.");//amol commited conflict
+		System.out.println("This is test line");
 	}
 
 }

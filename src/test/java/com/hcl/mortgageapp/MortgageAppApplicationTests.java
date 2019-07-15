@@ -12,6 +12,10 @@ public class MortgageAppApplicationTests {
 	@Test
 	public void change() {
 		System.out.println("Testing method.......hello ...differnce");
+
+		System.out.println("Change method");
+		System.out.println("Testing method.......hello");
+
 	}	
 	public void contextLoads() 
 	{
