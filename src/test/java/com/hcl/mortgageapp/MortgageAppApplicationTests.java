@@ -22,7 +22,7 @@ public class MortgageAppApplicationTests {
 	public void contextLoads() 
 	{
 		System.out.println("Welcome");
-		
+		System.out.println("Success");
 		System.out.println("Welcome");
 		System.out.println("Welcome");
 		System.out.println("Welcome");
