@@ -21,11 +21,7 @@ public class MortgageAppApplicationTests {
 	{
 		System.out.println("Welcome");
 		
-		System.out.println("Welcome");
-		System.out.println("Welcome");
-		System.out.println("Welcome");
-		System.out.println("Welcome");
-		System.out.println("Welcome");
+
 	}
 	
 	@Test
